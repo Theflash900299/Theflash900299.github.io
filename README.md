@@ -1,6 +1,6 @@
 # Theflash900299.github.io V2
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Theflash900299/Theflash900299.github.io?style=for-the-badge&logo=github&label=Repo%20stars&color=yellow)
+![GitHub Repo stars](https://img.shields.io/github/stars/Theflash900299/Theflash900299.github.io?style=for-the-badge&logo=github&label=repo%20stars&color=yellow)
 ![GitHub issues](https://img.shields.io/github/issues/Theflash900299/Theflash900299.github.io?style=for-the-badge&logo=GitHub)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/3kh0/website-v2?logo=github&style=for-the-badge)
 ![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/3kh0/website-v2?logo=codefactor&style=for-the-badge)
